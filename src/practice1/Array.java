@@ -1,6 +1,6 @@
 package practice1;
 
-public class Main {
+public class Array {
     public static void main(String[] args) {
         double sum = 0;
         int[] array = new int[10];
