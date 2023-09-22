@@ -1,5 +1,4 @@
-package practice2.one;
-import practice2.one.Author;
+package practice2.task1;
 
 import java.util.Scanner;
 

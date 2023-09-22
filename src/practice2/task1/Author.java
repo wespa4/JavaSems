@@ -1,4 +1,4 @@
-package practice2.one;
+package practice2.task1;
 public class Author {
     private final String name; // по рекоммендации ide стоит модификатор final = пер-ная константа
     private String email;
